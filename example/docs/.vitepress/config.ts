@@ -108,6 +108,10 @@ const themeConfig: ThemeContext = {
 export default withThemeContext(themeConfig, () => {
   return {
     ...genConfig(),
-    outDir: '../dist'
+    outDir: '../dist',
+    sitemap: {
+    hostname: 'https://mtf.report',
+    lastmodDateOnly: true
+  }
   }
 })
