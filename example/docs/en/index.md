@@ -23,7 +23,7 @@ MtF.Report is a grassroots platform dedicated to researching and supporting tran
 
 ## Origin and Background
 
-MtF.Report was officially launched in June 2025 by three students. During an online discussion, the founders became deeply aware of the severe oppression and discrimination faced by young transgender females (MtF) in China within their families, schools, and healthcare systems. Driven by empathy and compassion, they decided to use their efforts to advocate for and support this marginalized group.
+MtF.Report was officially launched in June 2025 by Four students. During an online discussion, the founders became deeply aware of the severe oppression and discrimination faced by young transgender females (MtF) in China within their families, schools, and healthcare systems. Driven by empathy and compassion, they decided to use their efforts to advocate for and support this marginalized group.
 
 ## Initial Motivation and Vision
 
