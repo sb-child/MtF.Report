@@ -7,25 +7,25 @@ import { withThemeContext } from '@project-trans/vitepress-theme-project-trans/u
 const nav: DefaultTheme.NavItem[] = [
   {
     text: '进入主页',
-    link: '/doc/',
+    link: '/zh-cn/',
   },
-  {
-    text: '贡献指南',
-    items: [
-      {
-        text: '校园版块投稿指南',
-        link: '/contributor-guide/doc.md',
-      },
-      {
-        text: '其他投稿指南',
-        link: '/contributor-guide/other.md',
-      },
-      {
-        text: '校园版块贡献模板',
-        link: '/contributor-guide/docTemplate.md',
-      },
-    ],
-  },
+//  {
+//    text: '贡献指南',
+//    items: [
+//      {
+//        text: '校园版块投稿指南',
+//        link: '/contributor-guide/doc.md',
+ //     },
+ //     {
+ //       text: '其他投稿指南',
+ //       link: '/contributor-guide/other.md',
+ //     },
+ //     {
+ //       text: '校园版块贡献模板',
+ //       link: '/contributor-guide/docTemplate.md',
+  //    },
+  //  ],
+  //},
 ]
 
 const baseConfig = {
@@ -39,10 +39,16 @@ const baseConfig = {
 const sidebarOptions = [
   {
     ...baseConfig,
-    scanStartPath: 'doc',
-    resolvePath: '/doc/',
+    scanStartPath: 'zh-cn',
+    resolvePath: '/zh-cn/',
     sortMenusByFrontmatterOrder: true,
   },
+  {
+    ...baseConfig,
+    scanStartPath: 'en',       // 扫描 docs/en 下的 md
+    resolvePath: '/en/',       // 映射到 /en/ 下
+    sortMenusByFrontmatterOrder: true,
+  }
 ]
 
 const themeConfig: ThemeContext = {
@@ -54,7 +60,7 @@ const themeConfig: ThemeContext = {
   /** vitepress 根目录 */
   rootDir: 'docs',
   /** 文档所在目录（目前似未使用此项） */
-  include: ['doc', 'contributor-guide', 'fashion'],
+  include: ['zh-cn', 'en'],
   nav,
   sidebarOptions,
   // enableChangeLog: false,
@@ -65,7 +71,7 @@ const themeConfig: ThemeContext = {
   // fontsBaseUrl: 'http://localhost:8788', // For local development with wrangler pages dev
   disclaimerPaths: [
     {
-      path: '/doc/',
+      path: '/zh-cn/',
       summaryHtml: 'MtF.Report 中的内容，仅供参考。可能存在过时或不准确的信息，请谨慎甄别。',
 //      detailHtml: '<p>RLE.wiki「大学指南」中的内容，仅供参考。可能存在过时或不准确的信息，请谨慎甄别。</p>'
 //        + '<p>「大学指南」板块中的内容，多数来自于读者投稿，并经编辑简单整理和形式审查后登载，主要体现其投稿者主观观点。不代表 RLE.wiki 编辑团队及我们的任何相关维护人员立场。</p>'
@@ -80,6 +86,7 @@ const themeConfig: ThemeContext = {
     root: {
       label: '中文',
       lang: 'zh',
+      link: '/zh-cn/',
     },
     en: {
       label: 'English',

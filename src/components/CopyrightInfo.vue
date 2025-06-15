@@ -84,7 +84,7 @@ const displayAuthors = computed(() => {
           许可下使用
         </span>
         <span v-else-if="attrs?.copyright?.license">
-          ，Project Trans 在
+          ，MtF.Report 在
           <a
             v-if="attrs?.copyright?.licenseUrl"
             :href="attrs.copyright.licenseUrl"
