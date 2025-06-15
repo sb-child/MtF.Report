@@ -158,11 +158,11 @@ function genConfig() {
       },
       nav,
       sidebar: generateSidebar(),
-      socialLinks: [{ icon: 'github', link: githubRepoLink }],
-      editLink: {
-        pattern: `${githubRepoLink}/edit/main/${sitePattern}/:path`,
-        text: '在 GitHub 上编辑此页面', // label localization
-      },
+      // socialLinks: [{ icon: 'github', link: githubRepoLink }],
+      // editLink: {
+      //   pattern: `${githubRepoLink}/edit/main/${sitePattern}/:path`,
+      //   text: '在 GitHub 上编辑此页面', // label localization
+      // },
       enableDisclaimer,
       disclaimerPaths,
       disclaimerStatusKey,

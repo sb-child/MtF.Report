@@ -6,15 +6,15 @@ import { withThemeContext } from '@project-trans/vitepress-theme-project-trans/u
 
 const nav: DefaultTheme.NavItem[] = [
   {
-    text: '大学指南',
-    link: '/campus/',
+    text: '进入主页',
+    link: '/doc/',
   },
   {
     text: '贡献指南',
     items: [
       {
         text: '校园版块投稿指南',
-        link: '/contributor-guide/campus.md',
+        link: '/contributor-guide/doc.md',
       },
       {
         text: '其他投稿指南',
@@ -22,7 +22,7 @@ const nav: DefaultTheme.NavItem[] = [
       },
       {
         text: '校园版块贡献模板',
-        link: '/contributor-guide/CampusTemplate.md',
+        link: '/contributor-guide/docTemplate.md',
       },
     ],
   },
@@ -39,37 +39,37 @@ const baseConfig = {
 const sidebarOptions = [
   {
     ...baseConfig,
-    scanStartPath: 'campus',
-    resolvePath: '/campus/',
+    scanStartPath: 'doc',
+    resolvePath: '/doc/',
     sortMenusByFrontmatterOrder: true,
   },
 ]
 
 const themeConfig: ThemeContext = {
-  siteTitle: 'RLE.wiki',
-  siteDescription: '一份 RLE 指北',
+  siteTitle: 'MtF.Report',
+  siteDescription: '让世界看见她们',
   // baseUrl: '/',
   /** Repo */
-  githubRepoLink: 'https://github.com/project-trans/RLE-wiki',
+  githubRepoLink: 'https://github.com/mtfreport/',
   /** vitepress 根目录 */
   rootDir: 'docs',
   /** 文档所在目录（目前似未使用此项） */
-  include: ['campus', 'contributor-guide', 'fashion'],
+  include: ['doc', 'contributor-guide', 'fashion'],
   nav,
   sidebarOptions,
   // enableChangeLog: false,
   enableSuggestionBox: false,
-  // HideReadingTime: true, /* 隐藏字数和预计阅读时间 */
-  // HideLastUpdated: true, /* 隐藏最后更新时间 */
-  // HideAuthors: true, /* 隐藏作者信息 */
+  HideReadingTime: true, /* 隐藏字数和预计阅读时间 */
+  HideLastUpdated: true, /* 隐藏最后更新时间 */
+  HideAuthors: true, /* 隐藏作者信息 */
   // fontsBaseUrl: 'http://localhost:8788', // For local development with wrangler pages dev
   disclaimerPaths: [
     {
-      path: '/campus/',
-      summaryHtml: 'RLE.wiki「大学指南」中的内容，仅供参考。可能存在过时或不准确的信息，请谨慎甄别。',
-      detailHtml: '<p>RLE.wiki「大学指南」中的内容，仅供参考。可能存在过时或不准确的信息，请谨慎甄别。</p>'
-        + '<p>「大学指南」板块中的内容，多数来自于读者投稿，并经编辑简单整理和形式审查后登载，主要体现其投稿者主观观点。不代表 RLE.wiki 编辑团队及我们的任何相关维护人员立场。</p>'
-        + '<p>若存在任何有误或不当内容，请联系 <a href="mailto:rlewiki@project-trans.org">rlewiki@project-trans.org</a>。</p>',
+      path: '/doc/',
+      summaryHtml: 'MtF.Report 中的内容，仅供参考。可能存在过时或不准确的信息，请谨慎甄别。',
+//      detailHtml: '<p>RLE.wiki「大学指南」中的内容，仅供参考。可能存在过时或不准确的信息，请谨慎甄别。</p>'
+//        + '<p>「大学指南」板块中的内容，多数来自于读者投稿，并经编辑简单整理和形式审查后登载，主要体现其投稿者主观观点。不代表 RLE.wiki 编辑团队及我们的任何相关维护人员立场。</p>'
+//        + '<p>若存在任何有误或不当内容，请联系 <a href="mailto:rlewiki@project-trans.org">rlewiki@project-trans.org</a>。</p>',
     },
   ],
   enableDisclaimer: true,
@@ -82,9 +82,9 @@ const themeConfig: ThemeContext = {
       lang: 'zh',
     },
     en: {
-      label: 'French',
-      lang: 'fr', // 可选，将作为 `lang` 属性添加到 `html` 标签中
-      link: '/fr/', // 默认 /fr/ -- 显示在导航栏翻译菜单上，可以是外部的
+      label: 'English',
+      lang: 'en', // 可选，将作为 `lang` 属性添加到 `html` 标签中
+      link: '/en/', // 默认 /fr/ -- 显示在导航栏翻译菜单上，可以是外部的
 
       // 其余 locale 特定属性...
     },
