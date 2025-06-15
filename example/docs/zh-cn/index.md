@@ -2,6 +2,7 @@
 title: "MtF.Report:让世界看见她们"
 index: true
 icon: creative
+author: 全体成员
 category:
   - 主页
 ---

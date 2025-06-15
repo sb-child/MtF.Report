@@ -2,6 +2,7 @@
 title: "案例研究"
 index: false
 icon: creative
+author: 池鱼
 category:
   - 案例研究
 ---

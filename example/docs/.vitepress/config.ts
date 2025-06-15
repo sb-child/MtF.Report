@@ -67,7 +67,7 @@ const themeConfig: ThemeContext = {
   enableSuggestionBox: false,
   HideReadingTime: true, /* 隐藏字数和预计阅读时间 */
   HideLastUpdated: true, /* 隐藏最后更新时间 */
-  HideAuthors: true, /* 隐藏作者信息 */
+  //HideAuthors: true, /* 隐藏作者信息 */
   // fontsBaseUrl: 'http://localhost:8788', // For local development with wrangler pages dev
   disclaimerPaths: [
     {
