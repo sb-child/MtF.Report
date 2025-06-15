@@ -105,4 +105,9 @@ const themeConfig: ThemeContext = {
 }
 
 // https://vitepress.dev/reference/site-config
-export default withThemeContext(themeConfig, genConfig)
+export default withThemeContext(themeConfig, () => {
+  return {
+    ...genConfig(),
+    outDir: '../dist'
+  }
+})
