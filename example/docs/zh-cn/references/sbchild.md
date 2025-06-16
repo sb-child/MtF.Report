@@ -1,5 +1,5 @@
 ---
-title: "参考资料"
+title: "色妹妹个人回忆录"
 index: false
 icon: creative
 author: sbchild
