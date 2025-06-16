@@ -56,7 +56,7 @@ const themeConfig: ThemeContext = {
   siteDescription: '让世界看见她们',
   // baseUrl: '/',
   /** Repo */
-  githubRepoLink: 'https://github.com/mtfreport/',
+  githubRepoLink: 'https://github.com/mtfreport/vitepress-theme-project-trans',
   /** vitepress 根目录 */
   rootDir: 'docs',
   /** 文档所在目录（目前似未使用此项） */
