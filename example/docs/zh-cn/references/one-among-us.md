@@ -1,5 +1,5 @@
 ---
-title: "One Among Us"
+title: "One Among Us（那些秋叶）"
 index: false
 icon: creative
 author: 那些秋叶
