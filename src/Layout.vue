@@ -13,6 +13,7 @@ import AppFooter from './components/AppFooter.vue'
 import CopyrightInfo from './components/CopyrightInfo.vue'
 import FontSwitcher from './components/FontSwitcher/FontSwitcher.vue'
 import PageInfo from './components/PageInfo.vue'
+import { Analytics } from "@vercel/analytics/next"
 
 const { Layout } = DefaultTheme
 const { frontmatter } = useData()
@@ -39,6 +40,7 @@ const { frontmatter } = useData()
       <template #nav-screen-content-after>
         <NolebaseEnhancedReadabilitiesScreenMenu />
       </template>
+      <Analytics />
     </Layout>
   </AppearanceToggle>
 </template>
