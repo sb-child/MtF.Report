@@ -13,13 +13,14 @@ import AppFooter from './components/AppFooter.vue'
 import CopyrightInfo from './components/CopyrightInfo.vue'
 import FontSwitcher from './components/FontSwitcher/FontSwitcher.vue'
 import PageInfo from './components/PageInfo.vue'
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/vue';
 
 const { Layout } = DefaultTheme
 const { frontmatter } = useData()
 </script>
 
 <template>
+  <Analytics />
   <AppearanceToggle>
     <Layout>
       <template #doc-before>
