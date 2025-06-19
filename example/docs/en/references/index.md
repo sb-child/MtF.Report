@@ -1,5 +1,5 @@
 ---
-title: "参考资料"
+title: "Reference"
 index: false
 icon: creative
 author: sbchild
@@ -7,10 +7,10 @@ category:
   - 参考资料
 ---
 
-## 关于
+## About
 
-> 本条目汇集了来自各方的**原始资料**，未经删减或加工。
+> This article gathers **raw materials** from all parties, without deletion or processing.
 
-::: warning 警告
-考虑到 MtF 群体的特殊经历，本条目可能包含敏感的描述或影像，这些内容可能会引发不适，请您在阅读时注意自我保护。
+::: warning WARNING
+Considering the special experience of the MtF group, this entry may contain sensitive descriptions or images, which may cause discomfort. Please pay attention to self-protection when reading.
 :::
