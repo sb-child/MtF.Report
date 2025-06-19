@@ -48,6 +48,12 @@ const sidebarOptions = [
     scanStartPath: 'en',       // 扫描 docs/en 下的 md
     resolvePath: '/en/',       // 映射到 /en/ 下
     sortMenusByFrontmatterOrder: true,
+  },
+  {
+    ...baseConfig,
+    scanStartPath: 'zh-tw',       // 扫描 docs/en 下的 md
+    resolvePath: '/zh-tw/',       // 映射到 /en/ 下
+    sortMenusByFrontmatterOrder: true,
   }
 ]
 
@@ -87,6 +93,11 @@ const themeConfig: ThemeContext = {
       label: '中文',
       lang: 'zh',
       link: '/zh-cn/',
+    },
+    tw: {
+      label: '繁體中文',
+      lang: 'tw',
+      link: '/zh-tw/',
     },
     en: {
       label: 'English',
