@@ -11,11 +11,6 @@ category:
 文章出处：[色妹妹的Github仓库](https://github.com/sb-child/notes/blob/main/trans.md)
 :::
 
-
-# 药娘是怎么炼成的
-
-关于[你潘老](https://mtf.wiki/zh-cn/docs/hrt/puth/pan-bailin/)写的《走出性别困境》，请见“[这本填鸭式工具书](assets/走出性别困境.pdf)”。
-
 *引用这篇文章请注明来源*
 
 ## 0 TL;DR
