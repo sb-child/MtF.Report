@@ -1,28 +1,26 @@
 ---
-title: "One Among Us（那些秋叶）"
+title: "One Among Us"
 index: false
 icon: creative
-author: 那些秋叶
+author: One Among Us
 category:
   - 参考资料
 ---
 
-::: warning 声明
-**One Among Us** 与 **MtF.Report** 之间不存在隶属或合作关系。  
-**One Among Us** 由其独立团队运营，其所做的所有贡献和努力均归属于该项目团队。  
-我们对 **One Among Us** 的创始人与维护者致以最深的敬意和感谢，感谢他们为纪念和发声所做出的无私付出。
+::: warning DISCLAIMER
+There is no affiliation or cooperation between **One Among Us** and **MtF.Report**.
+**One Among Us** is operated by its independent team, and all its contributions and efforts belong to the project team.
+We would like to express our deepest respect and gratitude to the founders and defenders of **One Among Us**, and thank them for their selfless contribution to commemorate and speak out.
 :::
 
+[One Among Us] (<https://one-among.us/>) is a commemorative website open to the public to commemorate Chinese transgender people who have died due to social prejudice and domestic violence.
+Through the true story and remeditary page, record their short and precious life fragments, remind the world to face their past difficulties, and call for more attention and support.
 
-[One Among Us](https://one-among.us/) 是一个面向公众开放的纪念网站，旨在缅怀那些因社会偏见与家庭暴力而离世的中国跨性别者。  
-通过真实故事与追思页面，记录她们短暂而珍贵的人生片段，提醒世人正视她们曾经的困境，并呼吁更多关注与支持。
+> "Death is not the end of life; being forgotten is. May our memories turn into lights and illuminate the way when they come.
 
-> “死亡并非生命的终点；被遗忘才是。愿我们的记忆化作灯火，照亮她们来时的路。”
-
-## 访问链接
+## Link
 
 ::: tip
-点击访问 **One Among Us**  
+Click to visit **One Among Us**  
 [https://one-among.us/](https://one-among.us/)
 :::
-
