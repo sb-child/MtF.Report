@@ -23,8 +23,6 @@ MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF
 
 ## 贡献者 ✨
 
-[![All Contributors](https://img.shields.io/github/all-contributors/mtfreport/vitepress-theme-project-trans?color=ee8449&style=flat-square)](#contributors)
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
