@@ -9,7 +9,7 @@ category:
 
 ::: info 通知
 我们的第一次泛问卷调查正在进行，期待您点击以下链接参与：
-https://forms.gle/PEFPdLXQWwERdb
+https://forms.gle/HMmUk8GJVghYiAU38
 :::
 ## 为中国跨性别女性（MtF）发声与援助
 
