@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD028 MD033 MD036 MD041 MD045-->
+<!--markdownlint-disable MD028 MD033 MD036 MD041 MD045 MD051-->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -7,9 +7,9 @@
 
 # MtF.Report
 
-<img src="https://komarev.com/ghpvc/?username=mtfreport" />
-
 > 让世界看见她们
+
+<img src="https://komarev.com/ghpvc/?username=mtfreport" />
 
 </div>
 
@@ -21,9 +21,9 @@ MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF
 
 该项目采用了 Project Trans 的 VitePress 主题 <https://github.com/project-trans/vitepress-theme-project-trans>
 
-## Contributors ✨
+## 贡献者 ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+[![All Contributors](https://img.shields.io/github/all-contributors/mtfreport/vitepress-theme-project-trans?color=ee8449&style=flat-square)](#contributors)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -42,5 +42,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
