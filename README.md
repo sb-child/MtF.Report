@@ -32,7 +32,7 @@ MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF
       <td align="center" valign="top" width="14.28%"><a href="https://chiyu.it"><img src="https://avatars.githubusercontent.com/u/109492503?v=4?s=100" width="100px;" alt="池鱼鱼"/><br /><sub><b>池鱼鱼</b></sub></a><br /><a href="https://github.com/mtfreport/vitepress-theme-project-trans/commits?author=kazukokawagawa" title="Code">💻</a> <a href="#translation-kazukokawagawa" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CodingXiaoheng"><img src="https://avatars.githubusercontent.com/u/216361016?v=4?s=100" width="100px;" alt="CodingXiaoheng"/><br /><sub><b>CodingXiaoheng</b></sub></a><br /><a href="#content-CodingXiaoheng" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FengzihangCode"><img src="https://avatars.githubusercontent.com/u/91676896?v=4?s=100" width="100px;" alt="DannyFeng"/><br /><sub><b>DannyFeng</b></sub></a><br /><a href="#translation-FengzihangCode" title="Translation">🌍</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Hoshroin"><img src="https://avatars.githubusercontent.com/u/31343983?v=4?s=100" width="100px;" alt="Hosh"/><br /><sub><b>Hosh</b></sub></a><br /><a href="#research-Hoshroin" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Hoshroin"><img src="https://avatars.githubusercontent.com/u/31343983?v=4?s=100" width="100px;" alt="Hosh"/><br /><sub><b>Hosh</b></sub></a><br /><a href="#research-Hoshroin" title="Research">🔬</a> <a href="#promotion-Hoshroin" title="Promotion">📣</a></td>
     </tr>
   </tbody>
 </table>
