@@ -6,17 +6,19 @@
 
 > 让世界看见她们
 
-<img src="https://komarev.com/ghpvc/?username=mtfreport" />
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 </div>
 
 MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。
 
 本项目贡献者包括跨性别者等多元文化群体，请在贡献时尊重她们，使用友善礼貌的词语。
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtfreport" style="display:inline-block;vertical-align:middle;" />
+  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+  <a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square" alt="All Contributors" style="display:inline-block;vertical-align:middle;" /></a>
+  <!-- ALL-CONTRIBUTORS-BADGE:END -->
+</div>
+
 
 ## 致谢 ✨
 
