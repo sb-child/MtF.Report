@@ -44,6 +44,15 @@
         "research",
         "promotion"
       ]
+    },
+    {
+      "login": "sb-child",
+      "name": "想出网名啦",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55868015?v=4",
+      "profile": "https://sbchild.top/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
