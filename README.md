@@ -44,19 +44,19 @@ MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<table style="width:100%;table-layout:auto;">
   <tbody>
     <tr>
-      <td align="center" valign="top" width="33%">祐穂・H</td>
-      <td align="center" valign="top" width="33%">白兔子成精</td>
-      <td align="center" valign="top" width="33%">化蝶为君舞丶</td>
-      <td align="center" valign="top" width="33%">托马斯（记者）</td>
-      <td align="center" valign="top" width="33%">那些秋叶</td>
-      <td align="center" valign="top" width="33%">HFRin🏳️‍⚧️🍥</td>
-      <td align="center" valign="top" width="33%">胖大鹅</td>
-      <td align="center" valign="top" width="33%">小橘🏳️‍⚧️🍥</td>
-      <td align="center" valign="top" width="33%">一只星野🍥🏳️‍⚧</td>
-      <td align="center" valign="top" width="33%">小寻🍥🏳️‍⚧</td>
+      <td align="center" valign="top">祐穂・H</td>
+      <td align="center" valign="top">白兔子成精</td>
+      <td align="center" valign="top">化蝶为君舞丶</td>
+      <td align="center" valign="top">托马斯（记者）</td>
+      <td align="center" valign="top">那些秋叶</td>
+      <td align="center" valign="top">HFRin🏳️‍⚧️🍥</td>
+      <td align="center" valign="top">胖大鹅</td>
+      <td align="center" valign="top">小橘🏳️‍⚧️🍥</td>
+      <td align="center" valign="top">一只星野🍥🏳️‍⚧</td>
+      <td align="center" valign="top">小寻🍥🏳️‍⚧</td>
     </tr>
   </tbody>
 </table>
