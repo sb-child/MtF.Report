@@ -19,7 +19,7 @@ hero:
 #      text: 其他 📚
 #      link: /others/
   image:
-    src: ./logo.png
+    src: ../logo.png
     alt: logo
 ---
 
