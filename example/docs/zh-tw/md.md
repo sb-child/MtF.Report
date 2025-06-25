@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 進入主頁 🏫
-      link: ../
+      link: ./
 #    - theme: alt
 #      text: 時尚護理 👕
 #      link: /fashion/
