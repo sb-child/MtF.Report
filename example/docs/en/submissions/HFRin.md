@@ -1,5 +1,5 @@
 ---
-title: "一个17岁mtf的回忆 (HFRin🏳️‍⚧️🍥)"
+title: "Memories of a 17-year-old MtF (HFRin🏳️‍⚧️🍥)"
 index: false
 icon: creative
 author: HFRin🏳️‍⚧️🍥
@@ -8,95 +8,93 @@ category:
   - 投稿内容
 ---
 
-::: info 说明
-本文为读者来稿，编辑CodingXiaoheng在保留原意的前提下进行了少量修改以便于阅读，主观叙事仅代表投稿者个人观点。如需转载，请征得作者同意。您可以通过我们联系到作者。
-联系我们：mail@mtf.report
+::: info NOTE
+This article is submitted by readers. Editor CodingXiaoheng has made a small revision to facilitate reading under the premise of retaining the original intention. The subjective narrative only represents the personal views of the contributor. If you need to reprint, please obtain the author's consent. You can contact the author through us.
+Contact us: mail@mtf.report
 :::
 
-::: tip 编者按
-这是一个关于自我认知、抗争与寻求独立的故事。记录了作者从迷茫的童年，到觉醒后的挣扎，再到最终挣脱枷锁、拥抱新生的经历。
+::: tip EDITOR'S NOTE
+This is a story about self-awareness, struggle and the pursuit of independence. It records the author's experience from a confused childhood, to the struggle after awakening, and then to the final break free from the shackles and embrace the new life.
 :::
 
-::: warning 内容预警
-本文涉及跨性别困境、自伤与强制住院等情节，可能引发不适；阅读前请根据自身情况酌情决定。如感到情绪波动，请及时寻求可靠的支持与帮助。
+::: warning CAUTION
+This article involves transgender dilemmas, self-injury and forced hospitalization, which may cause discomfort. Please decide according to your own situation before reading. If you feel mood swings, please seek reliable support and help in time.
 :::
 
-## 家庭背景与成长环境
+## Family Background and Growing Environment
 
-我的父母都是体制内的公务员，思想比较保守，从小对我的要求就非常高。很小的时候就带我去参加各种酒局饭局，这可能导致了我有点早熟，思想比同龄人想得多。好在我的成绩一直都比较好，在当地一个地级市成绩大概在中等偏上，有些时候能达到比较优秀的程度。但是这样反而加重了他们对我的期望，导致了我的精神内耗非常严重，而我也不好表现出来。
+My parents are both civil servants in the system. They are relatively conservative and have high requirements for me since I was a child. When I was very young, I took me to all kinds of drinking and dinners, which may cause me to be a little precocious and think more than my peers. Fortunately, my grades have always been relatively good. In a local prefecture-level city, my grades are probably above the middle, and sometimes I can reach an excellent level. However, this aggravated their expectations of me, resulting in a very serious mental exhaustion, and it was difficult for me to show it.
 
-## 早期的性别认知
+## Early Gender Recognition
 
-从小学的时候，我对性别的概念还很模糊，只觉得和女生一起玩会比和一群淘气男孩玩更自在。当时都是小孩子，之前简单地觉得自己可能性格和一般的男孩不太一样。
+Since elementary school, I have been vague about the concept of gender. I only think that playing with girls is more comfortable than playing with a group of naughty boys. At that time, they were all children. Before that, they simply felt that their personality might be different from that of ordinary boys.
 
-## 初中时期的觉醒
+## Awakening in Junior High School
 
-到了初中，我开始有一些苗头，开始注重自己的形象，平常会刻意把自己收拾得干干净净，甚至主动使用护肤产品来保持皮肤的状态。我发现自己逐渐对那些在班上毛毛躁躁、不拘小节的男生感到抗拒，仿佛他们的举动让我有些难以融入。而且自己可能意识到自己更偏向于感性思维。
+In junior high school, I began to have some beginnings and began to pay attention to my image. Usually, I would deliberately clean myself up, and even take the initiative to use skin care products to maintain the condition of my skin. I found myself gradually resisting the impetuous and unrestrained boys in the class, as if their behavior made me a little difficult to integrate. And you may realize that you are more inclined to emotional thinking.
 
-## 高中时期的自我探索
+## Self-Exploration in High School
 
-中考结束后，我拥有了一台自己的电脑，能够更自由地探索世界。不久我就学会了翻墙，接触到了各种我以前从未了解过的信息。就在那个时候，我第一次知道了"糖"（雌二醇等），它似乎可以让我在混乱情绪中找到某种慰藉，好像心里某个地方得到了肯定一样。
+After the middle school entrance examination, I have my own computer, which allows me to explore the world more freely. Soon I learned to climb over the wall and came into contact with all kinds of information that I had never known before. At that time, I learned about "medicine" (estradiol like Progynova, etc.) for the first time. It seemed to make me find some comfort in my chaotic mood, as if I had been affirmed somewhere in my heart.
 
-但是那个时候家庭对我的管控还是比较高的，以至于我在高一时期基本上没有过HRT的机会。这一切在我高二的时候迎来了转机，因为高一的时候我就已经意识到自己的性别认同可能不对劲，所以高二一次联考通过和父母的谈判获得了每周大概200块钱的可支配财产，这也就为我高中时期的HRT提供了经济来源。
+But at that time, my family still had a high control over me, so I basically didn't have the opportunity to have HRT in the first year of high school. All this ushered in a turning point when I was a sophomore in high school, because I had already realized that my gender identity might be wrong in my freshman year of high school, so I got about 200 yuan of disposable property per week through negotiations with my parents in the joint examination of my sophomore year of high school, which also provided an economic source for my HRT in high school.
 
-## 身体变化与暴露
+## Physical Changes and Out-of-Clock
 
-高二上学期半期后和高二下学期这将近一年都很平静，但是面对激素对于身体的变化还是有点不知所措。思想感情方面变得敏感，乳房开始发育，这个时候外形的变化已经很明显了，对我来说炸柜只是时间问题。
+After the first half of the first semester of the sophomore year of high school, the second semester of the second year of high school has been calm for nearly a year, but I am still a little overwhelmed by the changes in the body of hormones. Thoughts and feelings become sensitive, and breasts begin to develop. At this time, the change in appearance is obvious. For me, it is only a matter of time to be out-of-clock.
 
-不出所料，高二下学期结束后的补课，高三衔接课的时候我的同桌向我抛出一个犀利的问题，他问我是不是药娘。我当时脑子直接就懵了，不知道该如何回答。后来他看我的反应可能觉得自己有点唐突，匆忙解释了自己也上推特，看我的表现，尤其是乳房发育就很像他看到的药娘。这个时候我再怎么狡辩、解释也没有用，只能和他承认了。
+As expected, my deskmate asked me a sharp question during the make-up class after the second semester of the second semester of high school. He asked me if I was the MtF. At that time, my mind was directly confused and I didn't know how to answer. Later, when he saw my reaction, he might feel a little abrupt. He hurriedly explained that he was also on Twitter. Looking at my performance, especially the breast development, it was very similar to the MtFs he saw. At this time, no matter how much I argue and explain, it's useless. I can only admit it to him.
 
-## 校园霸凌与心理创伤
+## Bullying on Campus and Psychological Trauma
 
-令人失望的是他转身就把这件事情扩散到了全班，当时我顿时就感觉天塌了，同学们看我的眼神都和平时完全不一样，再加上当时已经是准高三了，学习压力也大。终于在某一天忍不住心中的情绪压力，在学校里面割了手，吞了药。
+What was disappointing was that he turned around and spread this matter to the whole class. At that time, I suddenly felt that the world had collapsed. My classmates looked at me completely differently from usual. In addition, I was already in my senior year of high school at that time, and I was under great pressure to study. Finally, one day, I couldn't help the emotional pressure in my heart, so I cut my hand and swallowed the medicine in the school.
 
-现在回望当时的经历，觉得自己太幼稚了，明明缓解压力和释放情绪有其他的很多种办法，却偏偏选择这种对自己影响最大的方法。
+Looking back on my experience at that time, I feel that I am too childish. Obviously, there are many other ways to relieve stress and release emotions, but I choose this method that has the greatest impact on me.
 
-## 家庭发现与医院诊断
+## Discovery of Family and Diagnosis
 
-后面的流程也是非常常规，被请家长休学停课。我的家长听到这个消息只是单纯地觉得我学习压力太大，抑郁。我也不敢跟他们说我在偷偷服用激素，但是毕竟纸包不住火，不出几天他们还是发现我在服用激素。再加上我被接回家的那几天，其实也不能说老实，多次尝试伤害自己。
+The following process is also very routine, and parents are asked to suspend school. When my parents heard this news, they simply felt that I was under too much pressure and depressed. I didn't dare to tell them that I was secretly taking hormones, but after all, paper can't wrap fire. In a few days, they still found out that I was taking hormones. In addition, in the days when I was taken home, I couldn't be honest and tried to hurt myself many times.
 
-他们可能觉得事情有点大，不是自己能解决的了，后来带我去了成都第四人民医院开到了小证。这个时候其实我是对我父母抱有希望的，甚至可能有一丝不切实际的美好幻想，觉得自己可能是家长党。然后仅仅过了一个星期，他们的态度又瞬间转变，说我是被国外的去雄文化影响了，说我被美国洗脑了，这一切都是外国人的阴谋，就是为了毁掉我们这一代。当时顿时就是想死的心都有了，不过好在没有什么实质性的动作，也没有说把我抓去扭转机构。
+They may think that the matter is a little big and they can't solve it by themselves. Later, they took me to the Fourth People's Hospital in Chengdu to get a diagnose. At this time, in fact, I have hope for my parents, and I may even have a little unrealistic and beautiful fantasy, thinking that I may be supported by my parents. Then only a week later, their attitude changed in an instant, saying that I was influenced by the foreign culture and that I was brainwashed by America. All of this was a conspiracy of foreigners to destroy our generation. At that time, I suddenly wanted to die, but fort fortesy, there was no substantial action, and it was not said that I was caught to reverse the mechanism.
 
-## 被欺骗进入精神病院
+## Deceived Into a Mental Hospital
 
-后来的某一天，他们说带我去华西检查抑郁症相关的项目，殊不知这是一个噩梦的开端。那天早上我妈把我叫起来，说让我赶快收拾收拾，准备去华西检查一下，当时也没多想，以为只是号比较难挂。
+One day later, they said that they would take me to West China Hospital to check depression-related projects, but they didn't know that this was the beginning of a nightmare. That morning, my mother called me up and told me to pack up quickly and go to West China Hospital for a check-up. At that time, I didn't think much about it, thinking that it was just difficult to register.
 
-直到我进病房之前，我都觉得这一切和平常没什么两样，但是我刚从电梯门打开，看到的景象瞬间让我脑袋放空：摆在我面前的是一道特别厚重的屏蔽门，上面写着华西PICU重症精神监护病房4号病房。当时想跑已经来不及了，我也不知道他们是通过什么手段，根本没有做任何的检查和诊断，就可以直接把我关进去，可能是当时我爸找了某种关系。
+Until I entered the ward, I felt that all this was no different from usual, but as soon as I opened the elevator door, the scene I saw made my head empty in an instant: in front of me was a particularly thick shielding door, which said Ward 4 of West China Hospital PICU Intensive Psychiatric Care Ward. At that time, it was too late to run, and I didn't know what means they did. They didn't do any examination and diagnosis at all, and they could directly entrn me in. Maybe my father found some kind of relationship at that time.
 
-## 精神病院的日子
+## The Days in Mental Hospital
 
-进去以后，其实我的情绪并没有多大的起伏，花了一天的时间熟悉了整个病区，发现根本不可能跑出去，所有的门禁都要刷卡，甚至电梯井有一道和人防工程差不多厚的大门，守门的起码五六个特别壮实的保安。顿时我也麻木了，没有做什么极端的行为，就很快接受了当前的处境。
+After entering, in fact, my mood did not have much ups and downs. I spent a day familiarizing myself with the whole ward. I found that it was impossible to run out at all. All access controls had to be swiped. Even the elevator shaft had a gate about the same thickness as the human defense project. There were at least five or six particularly strong security guards guarding the door. Suddenly, I became numb. Without doing anything extreme, I quickly accepted the current situation.
 
-因为我的主治医生单独来查我的房的时候，听说他是主任教授级的一个医生，我就觉得应该比较权威，就和他说了我的情况，但是他就一直在敷衍我，每次我问他所有问题都是"哦？是吗？哦，原来是这样啊，好神奇"这种类似的语言来敷衍我。我也对这个不抱希望了，但是当时问过他说一个月肯定会出院，我心想反正混一个月我就跑路。
+Because when my attending doctor came to check my room alone, I heard that he was a chief professor-level doctor. I thought it should be more authoritative, so I told him about my situation, but he kept perfunctory. Every time I asked him all the questions, he said, "Oh? Is that so? Oh, so that's it. It's amazing. "This kind of similar language makes me perfunctory. I also have no hope for this, but when I asked him at that time, he said that he would definitely be discharged from the hospital in a month. I thought to myself that I would run away after a month anyway.
 
-## 电击治疗的噩梦
+## The Nightmare of MECT
 
-抱着这样的心态，我又过了两天，直到第三天，护士早上通知我，让我在外面等着，别吃早饭。我还感到很奇怪，然后他就带着我和几个病友穿过好几道隔离门进了一个小房间，一进去就听到各种仪器的警报声音，当时房间的空调很冷，各种帘子把每个区域都单独分开，进来的门上面写着MECT治疗室。
+With this mentality, I spent another two days. Until the third day, the nurse informed me in the morning and told me to wait outside and not to have breakfast. I still felt strange. Then he took me and a few patients through several isolation doors into a small room. As soon as I entered, I heard the alarms of various instruments. At that time, the air conditioner in the room was very cold, and various curtains separated each area separately. The entrance door said MECT treatment room.
 
-然后护士就把我的手脚捆在了床上，随后就像没事人一样离开了这个房间，没有任何的人性。那个约束带绑得非常紧，甚至你越挣脱越痛，随后等了大概20多分钟才来了一个穿白大褂、戴口罩的医生，把我的床推到了一个小隔间里面拉上了帘子。
+Then the nurse tied my hands and feet to the bed, and then left the room as if nothing happened, without any humanity. The restraint was tied very tightly, and the more you broke free, the more painful it became. Then, after waiting for about 20 minutes, a doctor in a white coat and wearing a mask came, pushed my bed into a small compartment and pulled the curtain.
 
-我还没反应过来看清楚有什么仪器的时候，他就把我的眼镜取了（我两只眼睛高度近视，都是900多度，眼镜去了我基本就看不到）。我还没来得及明白发生什么的时候，他们就往我的脑袋上喷酒精，然后套了一个橡胶类的有弹性的圈，在两个太阳穴的地方接了电极片，几乎是同时进行。另外一个医生给我注射了一小管不知道是什么的液体，刚刚进入的时候有点冰凉，然后就感觉脑袋一晕就没有知觉了。
+Before I could react and see clearly what instruments were available, he took off my glasses (my eyes are highly short-sighted, both of which are more than 900 degrees, and I can't see them without glasses). Before I could understand what was going on, they sprayed alcohol on my head, then put on a rubber elastic ring and connected electrodes at the two temples, almost simultaneously. Another doctor injected me with a small tube of liquid that I don't know what it was. It was a little cold when I first entered, and then I felt dizzy and unconscious.
 
-我醒来的时候已经是当天下午了，眼神都是呆滞的，感觉头非常痛。想什么都非常迟滞，走路协调都有一点影响。然后这个步骤在一个月的时间里重复了12次，以至于我出院的时候几乎忘记了过去一年内发生的所有事情。
+When I woke up, it was already afternoon. My eyes were dull and my head hurt a lot. Thinking about everything is very slow, and the coordination of walking has a little impact. Then this step was repeated 12 times in a month, so that I almost forgot everything that had happened in the past year when I was discharged from the hospital.
 
-## 逃离家庭的决定
+## The Decision to Escape From the Family
 
-后来我出来后我爸妈觉得我肯定服了，让我在家恢复一下，但是当时的我已经对他们恨透了，没有经过任何华西方面的检查和诊断，结果直接就被关进了封闭式的病房里面一关就是一个月。回家后没几天我就逃离了家里，去到了隔壁城市。
+Later, after I came out, my parents thought that I was definitely convinced and asked me to recover at home. But at that time, I hated them so much that I didn't go through any examination and diagnosis from West China Hospital. As a result, I was directly locked up in a closed ward for a month. A few days after returning home, I escaped from home and went to a nearby city.
 
-在当地千辛万苦找到了一个客服的工作，老板人非常好，也没有过问我过去的什么经历，第一个月直接给我预支了工资让我前期的房租有了着落。期间我的父母一直在尝试通过我的联系方式与我建立联系，但是我稳定之前都没有理他们。
+I worked hard to find a job as a customer service in the local area. The boss was very nice and never asked me about my past experience. In the first month, he directly paid my salary in advance so that I could settle the previous rent. During this period, my parents have been trying to establish contact with me through my contact information, but they ignored me until I stabilized.
 
-## 重新建立关系
+## Re-Establish the Relationship
 
-当时我还差几个月才满17岁，后来我的生活趋于稳定以后再和他们重新联系上，我就明确地和他们说了，我不可能再回去了，我已经不可能是你们的儿子了。可能他们也知道已经奈何不了我了，是一种无奈的妥协。
+At that time, I was just a few months away from being 17 years old. Later, my life stabilized and I reconnected with them. I clearly told them that I couldn't go back. I couldn't be your son anymore. Maybe they also know that they can't help me anymore, which is a kind of helpless compromise.
 
-## 新的开始
+## A New Beginning
 
-后来我通过单招考试考上了离家比较远的一个大专，不过好在原本的底子在那里，这个学校还是比较好的（公办加双一流）。
+Later, I was admitted to a junior college far away from home through the single admission examination, but fortunately, the original foundation was there, and this school was still relatively good (public and double first-class). On the third day of the Chinese New Year this year, I met my husband (coldtea). Now I have quit my local customer service job and have fled Sichuan to Liaoning, but there should be no obstacle when I think of returning to Sichuan to study in September.
 
-就在今年的大年初三，我认识了我的老公（coldtea）。现在我已经辞去了在当地的客服工作，已经逃离四川到了辽宁，不过想到9月份回四川读大学，应该也不会有什么阻碍了。
+## Personal Insights and Suggestions
 
-## 个人感悟与建议
+These experiences may seem nothing, but many details of each node during the period are difficult to explain, such as the betrayal of classmates, the deception of parents, the difficulties of all kinds of people in society, etc. I'd better put forward my personal opinion. If you can't give up your studies, try not to give up your studies. Without academic knowledge, you can't find a job, and it's likely that you can barely survive.
 
-这些经历看起来可能没什么，但是期间的每一个节点的很多细节都不好阐述出来，同学的背叛，家长的欺骗，社会上各种人的刁难等等。还是提出一个我的个人见解，能不放弃学业的情况下，尽量不要放弃学业，没有学历知识的情况下，你找不到工作，大概率只能勉强维持你的生存。
-
-一路走来经历了这么多，相信我会遵从自己的内心好好活下去！
+Having experienced so much along the way, I believe that I will follow my heart and live well!
