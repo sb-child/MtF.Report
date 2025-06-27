@@ -10,7 +10,7 @@ category:
 
 ::: info NOTE
 This article is submitted by readers. Editor CodingXiaoheng has made a small revision to facilitate reading under the premise of retaining the original intention. The subjective narrative only represents the personal views of the contributor. If you need to reprint, please obtain the author's consent. You can contact the author through us.
-Contact us: mail@mtf.report
+Contact us: <mail@mtf.report>
 :::
 
 ::: tip EDITOR'S NOTE

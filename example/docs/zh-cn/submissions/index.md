@@ -21,7 +21,7 @@ category:
 
 ::: tip 欢迎投稿
 如果你也有想法、有故事，欢迎将稿件发送至：  
-✉️ **mail@mtf.report**  
+✉️ **<mail@mtf.report>**  
 我们会在收到后尽快审阅并与你联系。
 :::
 

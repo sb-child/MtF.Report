@@ -19,7 +19,6 @@ MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF
   <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </div>
 
-
 ## 致谢 ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->

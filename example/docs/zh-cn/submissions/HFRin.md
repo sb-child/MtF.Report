@@ -10,7 +10,7 @@ category:
 
 ::: info 说明
 本文为读者来稿，编辑CodingXiaoheng在保留原意的前提下进行了少量修改以便于阅读，主观叙事仅代表投稿者个人观点。如需转载，请征得作者同意。您可以通过我们联系到作者。
-联系我们：mail@mtf.report
+联系我们：<mail@mtf.report>
 :::
 
 ::: tip 编者按

@@ -13,7 +13,6 @@ category:
 我们对 **One Among Us** 的创始人与维护者致以最深的敬意和感谢，感谢他们为纪念和发声所做出的无私付出。
 :::
 
-
 [One Among Us](https://one-among.us/) 是一个面向公众开放的纪念网站，旨在缅怀那些因社会偏见与家庭暴力而离世的中国跨性别者。  
 通过真实故事与追思页面，记录她们短暂而珍贵的人生片段，提醒世人正视她们曾经的困境，并呼吁更多关注与支持。
 
@@ -25,4 +24,3 @@ category:
 点击访问 **One Among Us**  
 [https://one-among.us/](https://one-among.us/)
 :::
-
