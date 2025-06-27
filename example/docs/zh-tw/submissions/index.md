@@ -20,7 +20,7 @@ category:
 
 ::: tip 歡迎投稿
 如果你也有想法、有故事，歡迎將稿件發送至：  
-✉️ **mail@mtf.report**  
+✉️ **<mail@mtf.report>**  
 我們會在收到後盡快審閱並與你聯繫。
 :::
 

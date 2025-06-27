@@ -9,8 +9,9 @@ category:
 
 ::: info 通知
 我们的第一次泛问卷调查正在进行，期待您点击以下链接参与：
-https://forms.gle/HMmUk8GJVghYiAU38
+<https://forms.gle/HMmUk8GJVghYiAU38>
 :::
+
 ## 为中国跨性别女性（MtF）发声与援助
 
 MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。
