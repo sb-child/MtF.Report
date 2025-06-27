@@ -58,6 +58,7 @@ MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF
       <td align="center" valign="top">小橘🏳️‍⚧️🍥</td>
       <td align="center" valign="top">一只星野🍥🏳️‍⚧</td>
       <td align="center" valign="top">小寻🍥🏳️‍⚧</td>
+      <td align="center" valign="top">柒汐🍥🏳️‍⚧</td>
     </tr>
   </tbody>
 </table>
